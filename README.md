@@ -1,6 +1,6 @@
 ### Hola, soy Carmina 👋
 
-![Perfil](Banner.jpg)
+![Perfil](imagenes/Banner_1.jpg)
 
 ## Sobre mí
 
@@ -9,10 +9,11 @@ Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ve
 
 - 🔭 Actualmente soy estudiante en la Universidad Autónoma de Zacatecas.
 - 🌱 Estoy aprendiendo HTML5 y CSS3
-- 💬 Pregúntame sobre One Piece
+- 💬 Pregúntame sobre **One Piece**
 
   
-  ![preguntame](onepiece.gif)
+ <img src="imagenes/onepiece.gif" alt="preguntame">
+
   
 - 📫 Cómo contactarme: llamasvlzcarmina@gmail.com
 - 😄 Pronombres: ella
@@ -34,6 +35,13 @@ Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ve
 ![bhmtl](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![bcss](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![bvs](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ACarminaLlamas)](https://github.com/ACarminaLlamas/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACarminaLlamas&layout=compact)
+
+
+---
+
+
 
 
 <!--
