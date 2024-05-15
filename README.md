@@ -12,7 +12,7 @@ Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ve
 - 💬 Pregúntame sobre **One Piece**
 
   
- <img src="imagenes/onepiece.gif" alt="preguntame">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![preguntame](imagenes/onepiece.gif)
 
   
 - 📫 Cómo contactarme: llamasvlzcarmina@gmail.com
