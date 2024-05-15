@@ -2,7 +2,7 @@
 
 ![Perfil](imagenes/Banner_1.jpg)
 
-## Sobre mí
+## Sobre mí :llama:
 
 Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ver anime, aprender y nadar.
 
