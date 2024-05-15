@@ -25,6 +25,8 @@ Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ve
 
   Se realizó como práctica de mis estudios de HTML5 y CSS3. Cuenta con una interfaz responsiva y un diseño lindo.
 
+- Construyendo :bricks:
+
 ---
 
 
