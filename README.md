@@ -7,7 +7,7 @@
 Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ver anime, aprender y nadar.
 
 
-- 🔭 Actualmente soy estudiante de la Universidad Autónoma de Zacatecas.
+- 🔭 Actualmente soy estudiante en la Universidad Autónoma de Zacatecas.
 - 🌱 Estoy aprendiendo HTML5 y CSS3
 - 💬 Pregúntame sobre One Piece
 
