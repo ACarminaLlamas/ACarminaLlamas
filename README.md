@@ -19,7 +19,7 @@ Soy un estudiante, apasionado por la tecnología. Me encanta los videojuegos, ve
 
 ## Contacto 📫
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes una propuesta interesante o simplemente quieres conectar, no dudes en contactarme a través de llamasvlzcarmina@gmail.com o en [LinkedIn]([enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/carmina-llamas/)).
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes una propuesta interesante o simplemente quieres conectar, no dudes en contactarme a través de llamasvlzcarmina@gmail.com o en [LinkedIn]([enlace a tu perfil de [LinkedIn](https://www.linkedin.com/in/carmina-llamas/)
 
 ---
 
